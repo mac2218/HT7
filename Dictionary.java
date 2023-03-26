@@ -1,3 +1,10 @@
+/*
+ * Daniel Machic (22118)
+ * Hoja de trabajo #7
+ * 25/03/2023
+ * Clase que crea e instancia un arbol binario de busqueda
+ */
+
 public class Dictionary {
     private Node root;
 

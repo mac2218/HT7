@@ -1,3 +1,10 @@
+/*
+ * Daniel Machic (22118)
+ * Hoja de trabajo #7
+ * 25/03/2023
+ * Clase principal donde el usuario interactua con el programa
+ */
+
 public class Main {
     public static void main(String[] args) {
         Dictionary dictionary = new Dictionary();
